@@ -2,6 +2,10 @@
 
 This repository contains the evaluation code and results for the **ARC-Challenge Benchmark** using the **Shivaay LLM** with **8-shot testing** and **Chain-of-Thought (CoT)** reasoning. The benchmark measures the model's ability to answer complex science questions.
 
+Shivaay ranked 3rd on Huggingface SOTA (State-of-the-Art) Leaderboard for ARC-C
+
+![image](https://github.com/user-attachments/assets/7eec04fb-1580-41ec-b630-a4e781259ed7)
+
 ## Metrics
 
 - **Evaluation Method**: 8-Shot Testing with Chain-of-Thought Reasoning

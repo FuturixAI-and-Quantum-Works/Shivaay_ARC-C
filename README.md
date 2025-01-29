@@ -24,7 +24,7 @@ Shivaay ranked 3rd on PapersWithCode SOTA (State-of-the-Art) Leaderboard for ARC
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/[YourUsername]/shivaay-arc-benchmark.git
+   git clone https://github.com/FuturixAI-and-Quantum-Works/Shivaay_ARC-C
    cd shivaay-arc-benchmark
    ```
 
